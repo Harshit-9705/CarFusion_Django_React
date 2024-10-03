@@ -1,0 +1,2 @@
+# CarFusion_Django_React
+ At Car Fusion, we connect buyers and sellers in a seamless, user-friendly platform designed to simplify the car trading experience. Whether you're looking to sell your vehicle quickly or find your dream car at the right price, we've got you covered. Our extensive listings feature a diverse range of vehicles, complete with detailed descriptions, high-quality images, and transparent pricing.
